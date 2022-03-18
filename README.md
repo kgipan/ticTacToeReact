@@ -23,6 +23,8 @@ This exercise uses:
 To run this exercise, simply clone this respository. In your terminal you will want make sure repo is your current directory and then open a local server. 
 $ http-server -c-1 and click on the folder.
 
+To see the deployed version click <a href="https://tictactoereact.s3.amazonaws.com/standalone.html">HERE</a>.
+
 ## Roadmap for Future Improvements
 * Create different styling templates for the user to choose from at the start of the game. This can be implemented by creating a button with onClick event that can toggle various css styles.
 * Keep track of scores for each round played. This can be done by keeping state with each player's round score that is intialized with 0 that increments with a win for that player.
